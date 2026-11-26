@@ -1,0 +1,25 @@
+{
+  "name": "AquaStudy — Produktivitas & Jadwal Sholat",
+  "short_name": "AquaStudy",
+  "description": "Aplikasi pengatur jadwal tugas sekolah, timer fokus Pomodoro, dan pengingat waktu sholat otomatis.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#e0f7fa",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

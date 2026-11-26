@@ -1,0 +1,11 @@
+my-productivity-app/
+│
+├── index.html
+├── style.css
+├── script.js
+├── manifest.json
+├── service-worker.js
+│
+└── assets/
+    ├── icon.png
+    └── avatar.png
